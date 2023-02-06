@@ -905,6 +905,23 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "Hypixel-1.8.9",
+            "name": "Hypixel 1.8.9 PVP",
+            "description": "Custom profile for hypixel 1.8.9 pvp",
+            "icon": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png",
+            "version": "0.0.1",
+            "address": "play.hypixel.net",
+            "minecraftVersion": "1.8.9",
+            "discord": {
+                "shortId": "1.8.9 Hypixel",
+                "largeImageText": "Hypixel 1.8.9 PVP Profile",
+                "largeImageKey": "server-prod"
+            },
+            "mainServer": false,
+            "autoconnect": true,
+            "modules": []
         }
-    ]
+    ],
 }
