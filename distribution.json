@@ -913,7 +913,7 @@
             "icon": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png",
             "version": "0.0.1",
             "address": "play.hypixel.net",
-            "minecraftVersion": "1.8.9",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.8.9 Hypixel",
                 "largeImageText": "Hypixel 1.8.9 PVP Profile",
@@ -921,7 +921,18 @@
             },
             "mainServer": false,
             "autoconnect": true,
-            "modules": []
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4884700,
+                        "MD5": "90734a5a713e24902d24c45c15caa42c",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
+                    }
+                }
+            ]
         }
     ],
 }
